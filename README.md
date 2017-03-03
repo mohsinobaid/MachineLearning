@@ -7,13 +7,20 @@ Its the opposite.
 What i have experimented with so far:
 
 Supervised Learning:
-  Linear Regression
-  Logistic Regression
-  K-Nearest Neighbors
-  Neural Networks
+
+    Linear Regression
+  
+    Logistic Regression
+  
+    K-Nearest Neighbors
+  
+     Neural Networks
+  
   
 Unsupervised Learning:
-  K-Means Clustering
-  Principle Component Analysis
+
+    K-Means Clustering
+  
+    Principle Component Analysis
   
 
