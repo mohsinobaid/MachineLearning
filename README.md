@@ -17,14 +17,14 @@ run the model on new inputs to predict their outputs.
         
         K-Nearest Neighbors is an algorithm that (for a 1 dimensional dataset) observes the k closest x values from x* and averages their corresponding y values to predict a new y vlaue for x*.
         
-   <img src="images/k1.png"/>
+   <img src="images/k1.png" width="400" height="300"/></br>
    Here you can see when k=1 and we create 100 linspace x values, we overfit the model by alot.
    
-   <img src="images/k5.png"/>
+   <img src="images/k5.png" width="400" height="300"/></br>
    Here, with k=5, we seem to get a good graph and estimate of the underlying function that we are trying to predict.
    It seems like a sin functions. (it is.)
    
-   <img src="images/k50.png"/>
+   <img src="images/k50.png" width="400" height="300"/></br>
    This is where things break down. k=50. We only have a training dataset of 100ish points.
          
     Neural Networks
