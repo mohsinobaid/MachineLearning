@@ -13,8 +13,12 @@ Supervised Learning:
     Logistic Regression
   
     K-Nearest Neighbors
-  
-     Neural Networks
+        
+        K-Nearest Neighbors is an algorithm that (for a 1 dimensional dataset) observes the k closest x values from x* and averages their corresponding y values to predict a new y vlaue for x*.
+        
+        <img src="images/k1"/>
+        
+    Neural Networks
   
   
 Unsupervised Learning:
