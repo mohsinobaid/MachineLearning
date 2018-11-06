@@ -1,5 +1,5 @@
-# MachineLearning
-Learning Machine Learning
+# Machine Learning
+## Overview
 
 To someone unfamiliar with the topic, Machine Learning sounds like a course meant for humans to learn about machines. 
 Its the opposite.
@@ -28,14 +28,10 @@ run the model on new inputs to predict their outputs.
    This is where things break down. k=50. We only have a training dataset of 100ish points.
          
 ### Neural Networks
-
 #### Convolutional Neural Network 
 #### Recurrent Neural Network
-  
 ## Unsupervised Learning:
-
 ### K-Means Clustering
-  
 ### Principle Component Analysis
   
 
