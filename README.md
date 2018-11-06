@@ -6,16 +6,16 @@ Its the opposite.
 
 What i have experimented with so far:
 
-Supervised Learning: Supervised learning occurs when you feed your model with training data first. Then run
+## Supervised Learning: Supervised learning occurs when you feed your model with training data first. Then run
 run the model on new inputs to predict their outputs.
 
-    Linear Regression
+### Linear Regression
   
-    Logistic Regression
+### Logistic Regression
   
-    K-Nearest Neighbors
+### K-Nearest Neighbors
         
-        K-Nearest Neighbors is an algorithm that (for a 1 dimensional dataset) observes the k closest x values from x* and averages their corresponding y values to predict a new y vlaue for x*.
+    K-Nearest Neighbors is an algorithm that (for a 1 dimensional dataset) observes the k closest x values from x* and averages their corresponding y values to predict a new y vlaue for x*.
         
    <img src="images/k1.png" width="400" height="300"/></br>
    Here you can see when k=1 and we create 100 linspace x values, we overfit the model by alot.
@@ -27,13 +27,15 @@ run the model on new inputs to predict their outputs.
    <img src="images/k50.png" width="400" height="300"/></br>
    This is where things break down. k=50. We only have a training dataset of 100ish points.
          
-    Neural Networks
-  
-  
-Unsupervised Learning:
+### Neural Networks
 
-    K-Means Clustering
+#### Convolutional Neural Network 
+#### Recurrent Neural Network
   
-    Principle Component Analysis
+## Unsupervised Learning:
+
+### K-Means Clustering
+  
+### Principle Component Analysis
   
 
