@@ -3,6 +3,8 @@
 Stanford University School of Engineering Lecture 10
 
 Batch normalization is very important.
+Why though?
+
 RezNet have these shortcut connections.
 
 The gradient flow in the backward pass... then gradient will split and fork. 
