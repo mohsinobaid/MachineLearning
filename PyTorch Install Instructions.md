@@ -46,6 +46,6 @@ conda install pytorch -c pytorch
 pip3 install torchvision
 
 
-
+MAYBE I NEVER INSTALLED TORCH WTFGHGHG
 
 
