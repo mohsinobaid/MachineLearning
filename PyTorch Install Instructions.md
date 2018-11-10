@@ -25,6 +25,7 @@ I chose the options: Windows, x86_63, Version 10, exe local
  
 https://developer.nvidia.com/how-to-cuda-python
 This above link is how to use CUDA with Python. I believe that the video at the end helped alot too.
+dunno what this is http://docs.continuum.io/anaconda/packages/pkg-docs/
  
 # Installing Anaconda because of a missing depencency i think. (maybe the visual studio crap)
 https://www.anaconda.com/download/#windows
@@ -44,8 +45,8 @@ https://github.com/siddharthsharmanv/cudacasts/blob/master/InstallingCUDAPython/
 DID I DO THIS THO??? also from the pytorch website
 conda install pytorch -c pytorch
 pip3 install torchvision
-
-
 MAYBE I NEVER INSTALLED TORCH WTFGHGHG
+
+OK so, on jupyter that was running on Anaconda, i hadnt installed torch. I did install it on my normal python distribution on my computer. SO i had to use those 2 above 'conda' commands so that i can use torch on jupyter.
 
 
